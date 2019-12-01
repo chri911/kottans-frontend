@@ -41,3 +41,21 @@ What I intend to use in future:
 <li>forking repositories;</li>
 <li>creating pull requests.</li>
 </ul>
+## Intro to HTML and CSS
+<img src="https://github.com/chri911/kottans-frontend/blob/master/task_html_css_intro/intro_to_html_and_css.PNG">
+<img src="https://github.com/chri911/kottans-frontend/blob/master/task_html_css_intro/html-academy.PNG">
+What was new to me:
+<ul>
+<li>HTML tags;</li>
+<li>CSS syntax;</li>
+<li>CSS selectors;</li>
+</ul>
+What surprised me:
+<ul>
+<li>float properties;</li>
+<li>CSS Pseudo-classes</li>
+</ul>
+What I intend to use in future:
+<ul>
+<li>creating web-pages;</li>
+</ul>

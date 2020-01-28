@@ -60,8 +60,8 @@ What I intend to use in future:
 <li>creating web-pages;</li>
 </ul>
 ## Responsive Web Design
-<img src="https://github.com/chri911/kottans-frontend/blob/master/task_html_css_intro/responsive-web-design.PNG">
-<img src="https://github.com/chri911/kottans-frontend/blob/master/task_html_css_intro/flexbox-froggy.PNG">
+<img src="https://github.com/chri911/kottans-frontend/blob/master/task_responsive_web_design/responsive-web-design.PNG">
+<img src="https://github.com/chri911/kottans-frontend/blob/master/task_responsive_web_design/flexbox-froggy.PNG">
 What was new to me:
 <ul>
 <li>responsive design patterns;</li>

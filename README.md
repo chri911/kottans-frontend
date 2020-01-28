@@ -59,3 +59,21 @@ What I intend to use in future:
 <ul>
 <li>creating web-pages;</li>
 </ul>
+## Responsive Web Design
+<img src="https://github.com/chri911/kottans-frontend/blob/master/task_html_css_intro/responsive-web-design.PNG">
+<img src="https://github.com/chri911/kottans-frontend/blob/master/task_html_css_intro/flexbox-froggy.PNG">
+What was new to me:
+<ul>
+<li>responsive design patterns;</li>
+<li>flex properties;</li>
+<li>viewport tag</li>
+</ul>
+What surprised me:
+<ul>
+<li>frogs on flex;</li>
+<li>CSS media queries</li>
+</ul>
+What I intend to use in future:
+<ul>
+<li>creating a responsive web-site</li>
+</ul>

@@ -21,7 +21,9 @@ What I intend to use in future:
 <li>Git Bash;</li>
 <li>Extra materials for further exploring pf protocols.</li>
 </ul>
-## Git Collaboration
+
+### Git Collaboration
+
 <img src="https://github.com/chri911/kottans-frontend/blob/master/task_git_collaboration/git_hub_and_collaboration.PNG">
 <img src="https://github.com/chri911/kottans-frontend/blob/master/task_git_collaboration/Version_control.PNG">
 What was new to me:
@@ -41,7 +43,8 @@ What I intend to use in future:
 <li>forking repositories;</li>
 <li>creating pull requests.</li>
 </ul>
-## Intro to HTML and CSS
+
+### Intro to HTML and CSS
 <img src="https://github.com/chri911/kottans-frontend/blob/master/task_html_css_intro/intro_to_html_and_css.PNG">
 <img src="https://github.com/chri911/kottans-frontend/blob/master/task_html_css_intro/html-academy.PNG">
 What was new to me:
@@ -59,7 +62,9 @@ What I intend to use in future:
 <ul>
 <li>creating web-pages;</li>
 </ul>
-## Responsive Web Design
+
+### Responsive Web Design
+
 <img src="https://github.com/chri911/kottans-frontend/blob/master/task_responsive_web_design/responsive-web-design.PNG">
 <img src="https://github.com/chri911/kottans-frontend/blob/master/task_responsive_web_design/flexbox-froggy.PNG">
 What was new to me:
@@ -77,7 +82,9 @@ What I intend to use in future:
 <ul>
 <li>creating a responsive web-site</li>
 </ul>
-## HTML & CSS Practice
+
+### HTML & CSS Practise
+
 What was new to me:
 <ul>
 <li>:checked CSS pseudo-class;</li>

@@ -77,3 +77,14 @@ What I intend to use in future:
 <ul>
 <li>creating a responsive web-site</li>
 </ul>
+## HTML & CSS Practice
+What was new to me:
+<ul>
+<li>:checked CSS pseudo-class;</li>
+<li>input type="checkbox";</li>
+<li>overflow: scroll;</li>
+</ul>
+What surprised me:
+<ul>
+<li>different ways of making triangles;</li>
+</ul>
